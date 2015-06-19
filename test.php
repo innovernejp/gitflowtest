@@ -1,3 +1,5 @@
 <?php
-// php info
+/*
+ * Output php info
+ */
 phpinfo();
